@@ -12,7 +12,7 @@
    * The last section of url path is the uniquely identifying factor the site already uses.
    * Address, No.of.Beds, No.of.Baths, Listing Agent, Listing Broker
    * Open House, Overview, All data points in the Key Facts section, All data points in Features section.
-5. As most of the data points may or may not exist for each listing, so planning to use NoSql kind of database like **mongodb**.
+5. As most of the data points may or may not exist for each listing, so planning to use NoSql kind of database like **mongodb** or **Elastic Search**.
 6. Just tested grabbing basic webpages with python in realtor.com it didn't give any error pages like some websites.
    So for now I can use basic python libraries rather than using selenium based data extraction to look like a human.
 7. Currently just worrying about code that runs on **single core**.
