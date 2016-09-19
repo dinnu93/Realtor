@@ -4,7 +4,7 @@
 
 1. Input to the script is the list of **city names** followed by a **state code**. Eg: **San Francisco, CA**.
 2. Url-format of search planning to use for maximum entries in a page based on city name.
-   * *http://www.realtor.com/realestateandhomes-search/City-Name_State-Code>/pg-Page Number?pgsz=50*
+   * *http://www.realtor.com/realestateandhomes-search/City-Name_State-Code>/pg-Page-Number?pgsz=50*
 3. The script substitutes the city name and state code and keeps incrementing the page numbers till the end.
    from each page numbered webpage gather the link on the View-Details buttons and fetch the webpage and
    extract the data points of interest and store it in a database
