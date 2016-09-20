@@ -17,3 +17,13 @@
    So for now I can use basic python libraries rather than using selenium based data extraction to look like a human.
 7. Currently just worrying about code that runs on **single core**.
 8. Have to run the script like a chron job everyday to sync up the updates.
+
+## 20/09/16
+
+1. After reading a lot of stuff I finally decided to use **MySQL** as I already know the types of all the data points I'm going to gather.
+2. I'm still a little bit worried about the performance of MySQL in a distributed setting.
+   At this point I don't have a lot of experience in using databases in large projects,
+   but I've to start somewhere and **RDBMS** seem to be a good starting point for beginners.
+3. ORM I choose is **SqlAlchemy** due to its framework independent nature and good documentation.
+4. I experimented a bit with SqlAlchemy.
+5. Trying to figure out the database design. 
