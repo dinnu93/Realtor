@@ -26,4 +26,12 @@
    but I've to start somewhere and **RDBMS** seem to be a good starting point for beginners.
 3. ORM I choose is **SqlAlchemy** due to its framework independent nature and good documentation.
 4. I experimented a bit with SqlAlchemy.
-5. Trying to figure out the database design. 
+5. Trying to figure out the database design.
+
+## 21/09/16
+
+1. Spent some time on reviewing the relational databases concepts from this [course](https://www.udacity.com/course/intro-to-relational-databases--ud197)
+2. Came up with a schema using (street address,city,county,state) as primary key
+   * ![Listings Table](https://drive.google.com/open?id=0ByDD-UiARB5uZGhnT0FIcFB6a0U)
+   * ![Listings Table](https://drive.google.com/open?id=0ByDD-UiARB5uN0tyTHJCYnI5UWM)
+3. 
