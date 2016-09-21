@@ -31,4 +31,5 @@
 ## 21/09/16
 
 1. Spent some time on reviewing the relational databases concepts from this [course](https://www.udacity.com/course/intro-to-relational-databases--ud197)
-2. Came up with a schema using (street address,city,county,state) as primary key
+2. Came up with a [schema](https://drive.google.com/open?id=1KDjOMj_BeyNZMog2_m-l8hFSVd8iUNPHB-qJkV5zH3I) using (street address,city,county,state) as primary key 
+3. 
