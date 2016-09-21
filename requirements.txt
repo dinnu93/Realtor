@@ -1,1 +1,2 @@
 mysql-python
+sqlalchemy >= 1.1.0b3
