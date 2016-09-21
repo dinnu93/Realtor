@@ -32,10 +32,5 @@
 
 1. Spent some time on reviewing the relational databases concepts from this [course](https://www.udacity.com/course/intro-to-relational-databases--ud197)
 2. Came up with a schema using (street address,city,county,state) as primary key
-![Listings Table]
-(https://drive.google.com/open?id=0ByDD-UiARB5uZGhnT0FIcFB6a0U)
-
-![Listings Table]
-(https://drive.google.com/open?id=0ByDD-UiARB5uN0tyTHJCYnI5UWM)
-
-3. 
+   * ![Listings Table](https://drive.google.com/open?id=0ByDD-UiARB5uZGhnT0FIcFB6a0U)
+   * ![Listings Table](https://drive.google.com/open?id=0ByDD-UiARB5uN0tyTHJCYnI5UWM)
