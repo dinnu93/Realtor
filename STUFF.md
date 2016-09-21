@@ -32,5 +32,3 @@
 
 1. Spent some time on reviewing the relational databases concepts from this [course](https://www.udacity.com/course/intro-to-relational-databases--ud197)
 2. Came up with a schema using (street address,city,county,state) as primary key
-   * ![Listings Table](/images/listing1.jpg)
-   * ![Listings Table](/images/listing2.jpg)
