@@ -35,3 +35,9 @@
 3. Installation and setup : MySQL, mysql-python connector, SqlAlchemy.
 4. Went through sqlalchemy documentation to setup initial table.
 5. Wrote some trivial code to test sqlalchemy.
+
+## 22/09/16
+
+1. Went through sqlalchemy docs.
+2. Completed writing the Listing Object code which generates the schema.
+3. Completed the database part of the program and organized the code a little bit to be modular.
