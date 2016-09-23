@@ -41,3 +41,11 @@
 1. Went through sqlalchemy docs.
 2. Completed writing the Listing Object code which generates the schema.
 3. Completed the database part of the program and organized the code a little bit to be modular.
+
+## 23/09/16
+
+1. Wrote some basic code to test the scrapper.
+2. My scrapper was detected and my IP was blocked.
+3. Read through the terms of use and got to know that by web scraping
+   I'm violating the terms of their website.
+4. Trying to get out of the scraper detector's honeypot.

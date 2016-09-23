@@ -1,3 +1,4 @@
+
 from sqlalchemy import create_engine,Column,Integer,String,Date,Text,Boolean
 from sqlalchemy.ext.declarative import declarative_base
 from sqlalchemy.dialects import mysql
@@ -25,7 +26,8 @@ def create_listings_table(engine):
 
 class Listing(Base):
     __tablename__= 'listings'
-    
+
+    url = Column(Text, nullable=False, primary_key=True)
     street_address = Column(String(200), nullable=False, primary_key=True)
     city = Column(String(50), nullable=False, primary_key=True)
     county = Column(String(50), nullable=False, primary_key=True)
